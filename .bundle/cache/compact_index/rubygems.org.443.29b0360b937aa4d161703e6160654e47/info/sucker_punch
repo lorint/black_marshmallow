@@ -1,0 +1,33 @@
+---
+0.1 celluloid:> 0.11|checksum:RaSHtzf1ZfC/RqDKsJET4z8jKDCU+//376i4zndgBHw=
+0.2 celluloid:> 0.11|checksum:+74j6jFlZ+EoI4hK3D6p1O2Qs6TH5sHFkoQekHo2bmc=
+0.3 celluloid:> 0.11|checksum:vO/2v6dMsXYf0fp425aF4uH8nGga2RBxHmP2PYsnZS4=
+0.3.1 celluloid:> 0.11|checksum:dijbYTkxuTxREP2WWOb5L5pCDSTPUtYYMinI/J43+3w=
+0.4 celluloid:> 0.11|checksum:tg12zT9cV9pL2iRJx5dUo0N1eYMnLFrMTYKubYtidLA=
+0.4.1 celluloid:~> 0.13.0|checksum:iCjekfBg6VRCatWv+kYFiGUWvjbCPTYrj5D7Fp5HxAU=
+0.5 celluloid:~> 0.14.1|checksum:9UcXPho1QWTg0BDmZlqABx2LSTlVfhcxhSmqy+5PLIw=
+0.5.1 celluloid:~> 0.14.1|checksum:7KwASiAWOhJNHohsxxiAq2JylEnb9ZCtPWNviOj7otg=
+1.0.0.beta celluloid:~> 0.14.1|checksum:thsUOHGiTU0YFMReU9CYuT8ns7AVqdOpvdFfVq/60Ww=,rubygems:> 1.3.1
+1.0.0.beta2 celluloid:~> 0.14.1|checksum:FTKaeuTN1bt16Ubv8LhnT27nPp6HsM4hBtv7U3/3nlQ=,rubygems:> 1.3.1
+1.0.0.beta3 celluloid:~> 0.14.1|checksum:uI6jq2QO8MdwS6bOgCvon05xCCUuH41SBw8rOYe9fes=,rubygems:> 1.3.1
+1.0.0 celluloid:~> 0.14.1|checksum:w+WDdn4qwaaoERb34Fpnj8qyr/beduFN/eSa8KgtwFw=
+1.0.1 celluloid:~> 0.14.1|checksum:jgpKUL690mNaZfwu3IMFD64872csxnip09Xdq+f1RNM=
+1.0.2 celluloid:~> 0.15.1|checksum:A6+WpcOsbvDqI9IAKVpIm3VPJT4dANQeWIOLyyMQCsc=
+1.0.3 celluloid:~> 0.15.2|checksum:0AFaCjrkqb/kgKHQWVAJ9J9RDYktfV/prSBnY8QkyiA=,ruby:>= 0
+1.0.4 celluloid:~> 0.15.2|checksum:R4iRJ6/enm+38ixyAaGeyFQKNUp6d98QzYQM9AGw/Jk=,ruby:>= 0
+1.0.5 celluloid:~> 0.15.2|checksum:N0tU5k3yJ0pXtC0ZV8rpPUWARi9pglD+BjX2PGNtfMs=,ruby:>= 0
+1.1 celluloid:~> 0.15.2|checksum:UOC8CbjjzKeJI02PgGaJ6ciM1fHNszHGnsA7Iwlq45Y=,ruby:>= 0
+1.2 celluloid:~> 0.16.0|checksum:Qrs1hRaOVQjiqJqMgXseBG+6kTChM4pq6KP06GfS558=,ruby:>= 0
+1.2.1 celluloid:~> 0.15.2|checksum:aq9GrryD0WcXDl1XIQEVsuRQJ97V1uGCO31Sz1hkxa4=,ruby:>= 0
+1.3.0 celluloid:~> 0.16.0|checksum:IZ8kPLfSnga3mqDahO14hgyryDeZcTNC5dOR8cuspkw=,ruby:>= 0
+1.3.1 celluloid:~> 0.16.0|checksum:3ASBrL/sNeYr9STK04/TQT8j0VjOGOLExCaNb3i5/fU=,ruby:>= 0
+1.3.2 celluloid:~> 0.16.0|checksum:vK9rC/juBvooQ64FxB3C3JAn2gtSPN4xK7BuwHyj6sk=,ruby:>= 0
+1.4.0 celluloid:~> 0.16.0|checksum:icubcpGBxc37MdAc8zAi/eeMPMMEYGTZXi5av6opPls=,ruby:>= 0
+1.5.0 celluloid:~> 0.16.0|checksum:jTzGEU98PMWWPa+xnaLzEZUkHHc+8PXRZRHCQ1zfizM=,ruby:>= 0
+1.5.1 celluloid:= 0.16.0|checksum:
+1.6.0 celluloid:~> 0.17.2|checksum:
+2.0.0.beta1 concurrent-ruby:~> 1.0.0|checksum:cc11b75533c743c806014961bcc28abd3404d2cdf03ae66561b824200305cb01,ruby:>= 0,rubygems:> 1.3.1
+2.0.0.beta2 concurrent-ruby:~> 1.0.0|checksum:b154b325fc8e30706b92bb64181a8d9571565580e41ad323d051d378da5af143,ruby:>= 0,rubygems:> 1.3.1
+2.0.0 concurrent-ruby:~> 1.0.0|checksum:5e2d3f4a8ef41abc5ddc43784004e37e3da5465b6a7f69832dd58a7ddfd91b01,ruby:>= 0,rubygems:>= 0
+2.0.1 concurrent-ruby:~> 1.0.0|checksum:e5317de233a9e7daeb8e9c294b9edf8865a0b2094f36e440bee317c2dacba587,ruby:>= 0,rubygems:>= 0
+2.0.2 concurrent-ruby:~> 1.0.0|checksum:a574c08aba37fa39074b181a0ce8aa5c5926259b485142db44a6d04feb280b51,ruby:>= 0,rubygems:>= 0

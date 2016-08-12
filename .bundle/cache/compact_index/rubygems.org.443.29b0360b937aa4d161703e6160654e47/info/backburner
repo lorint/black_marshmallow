@@ -1,0 +1,27 @@
+---
+0.0.1 beanstalk-client:>= 0,dante:>= 0,json_pure:>= 0|checksum:X5pAdOJFMi6BLz6b2m0O+rVMDIdrAonWY531BYZ62g0=
+0.0.2 beanstalk-client:>= 0,dante:>= 0,json_pure:>= 0|checksum:TPI6u2nD8S1a3Gqam2hHnFEg8U2r8yJICXFtU8A+HmI=
+0.0.3 beanstalk-client:~> 1.1,dante:~> 0.1.5|checksum:Yz250/QR2JnxejUmHkMLsSXYkei5OjfxCvs1qUfucWo=
+0.1.0 beaneater:~> 0.1.1,dante:~> 0.1.5|checksum:uExMjcXGqGWAomEZgdNSChgrsfgN3ndNj0rRXFigS6Q=
+0.1.1 beaneater:~> 0.1.1,dante:~> 0.1.5|checksum:sXi1oI2j33OeyO9QsskYUfIcwFiN2IXrhf+dLzy8FBQ=
+0.1.2 beaneater:~> 0.1.2,dante:~> 0.1.5|checksum:/jTivYYtM5X79CObNQFcHXOKLjA+tGowN7aQCaXN0ic=
+0.2.0 beaneater:~> 0.1.2,dante:~> 0.1.5|checksum:onLi0rc+j0isBdvkeB7XgsYLq+WqqIZdrp0s/qySEsg=
+0.2.5 beaneater:~> 0.1.2,dante:~> 0.1.5|checksum:NR8eKEzP7yvjB8FeiQO9xZ7VAUm1Dbd9abPTJAIA6Ys=
+0.2.6 beaneater:~> 0.2.0,dante:~> 0.1.5|checksum:3MmbtVTHfirUbrylu3PQZTZ6ijq8xAXEoP4R0iSWb2A=
+0.3.0 beaneater:~> 0.2.0,dante:~> 0.1.5|checksum:Gn2c9ku8U1zyUJ1d0Nd/9sLiGpQvsR7VxjKtgbJy2GY=
+0.3.1 beaneater:~> 0.2.0,dante:~> 0.1.5|checksum:v2TF+kWob96gKaak8lTQpfTS20MuwzwAFvJKMNeYQew=
+0.3.2 beaneater:~> 0.3.0,dante:~> 0.1.5|checksum:Zq5pw/FYkh0viw9p0sYpPWV07s8aPFVsdOWQXZ8jBVM=
+0.3.3 beaneater:~> 0.3.0,dante:~> 0.1.5|checksum:UQeLcKL5v3wDPjr9T15bbNBTGHbHo76Srq4VWV34HkM=
+0.3.4 beaneater:~> 0.3.0,dante:~> 0.1.5|checksum:atCY9gr+N//VmBopVuI/Ux1pl8sD7frbLguWaAKrBrE=
+0.4.0 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:pVazpzXh7l82Jtu3DE/y2f8qsUnxVhVmGYTJt/n5Ql8=
+0.4.1 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:D7SkncT09L5/THpetVflRXH2sYLJ6RmlesAcsQCzabQ=
+0.4.2 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:/m537Nfspobv3WfVYOe9Re/t5qYvLBISI5ebGV1Akyk=
+0.4.3 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:i/skxo/jwNDrtjHwJ8MmkRv2PriPSJgJ4blyAEi9iZM=
+0.4.4 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:THwGnwx+Ptk5WLRiqfmZl3VSHWOZXJmFNSiaBAwV89o=
+0.4.5 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:ZqHtQuFCvS5y3emF4ud+J05JqWpDBrMUT6zd1tStXbg=
+0.4.6 beaneater:~> 0.3.1,dante:~> 0.1.5|checksum:DH9IhuVly2ZZUd7Gyvb9vY1JAiSlQsSEgmegkwE8Xv4=,ruby:>= 0
+1.0.0 beaneater:~> 1.0,dante:> 0.1.5|checksum:2OrLHAnrArGOZHGuqcSDnObM7wMWqt2T2B9BIsCWcHQ=,ruby:>= 0
+1.1.0 beaneater:~> 1.0,dante:> 0.1.5|checksum:
+1.2.0.pre beaneater:~> 1.0,dante:> 0.1.5|checksum:
+1.2.0 beaneater:~> 1.0,dante:> 0.1.5|checksum:
+1.3.0 beaneater:~> 1.0,dante:> 0.1.5|checksum:8c387edf1c8b3ef59a51b7dc8a9458cd250d24f105681a8cdfbece32f0e13af9,ruby:>= 0,rubygems:>= 0

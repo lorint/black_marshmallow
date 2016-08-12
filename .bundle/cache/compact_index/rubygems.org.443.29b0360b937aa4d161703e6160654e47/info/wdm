@@ -1,0 +1,7 @@
+---
+0.0.1 |checksum:kWLfhhiAAx0g2j3vTJXfyvBrfJkt02X0tzIvi7Xgf5A=
+0.0.2-mingw32 |checksum:gSVEx41CYfLpkrX5+srx9Jj0MMdDKVVU9ybSOXDIQZY=
+0.0.2-x86-mingw32 |checksum:gSVEx41CYfLpkrX5+srx9Jj0MMdDKVVU9ybSOXDIQZY=
+0.0.3 |checksum:raohvLf6RQ/l7y2CbNtH7qtRg1uxj5R3cjRUjeD32Bk=
+0.1.0 |checksum:uLXhSFRzjLo5wsl+vW3J7Tm+k0v5FnvYDdh9D3d0YLk=
+0.1.1 |checksum:KEBvXyNnlgGb6lsqheN8vNIp7JKMi2gmGUekTuwVtHQ=,ruby:>= 1.9.2

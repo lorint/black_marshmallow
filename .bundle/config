@@ -1,0 +1,4 @@
+---
+BUNDLE_BUILD__NOKOGIRI: "--with-xml2-include=/data/data/com.termux/files/usr/include/libxml2
+  --with-xslt-dir=/data/data/com.termux/files/usr/include/libxslt"
+BUNDLE_BUILD__NIO4R: "--with-cflags=-std=c99"

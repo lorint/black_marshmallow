@@ -1,0 +1,59 @@
+---
+0.6 activerecord-jdbc-adapter:>= 0.6,jdbc-postgres:>= 8.2|checksum:B8Q8XaLbGJnL7JvmndOJg3nKwB+xLMyfpxK90poCCcY=,rubygems:
+0.7 activerecord-jdbc-adapter:>= 0.7,jdbc-postgres:>= 8.2|checksum:YkPTWBlA7OOTv1cWCrmyJCfun+j3cc4mSbRF6n0QPIA=,rubygems:
+0.7.1 activerecord-jdbc-adapter:>= 0.7.1,jdbc-postgres:>= 8.2|checksum:T0+T4XHGJOQp5jNtTiD5a69qVVLqPqiYYJfK1/1uOGk=,rubygems:
+0.7.2 activerecord-jdbc-adapter:>= 0.7.2,jdbc-postgres:>= 8.2|checksum:ICr5u02jYByguhQXz/L7LbkXTUPFiTZQskjVeSc5ZeU=
+0.8 activerecord-jdbc-adapter:>= 0.8,jdbc-postgres:>= 8.2|checksum:hIFviGYVyfMpBCQGJblhqAO3GojgMulkn/iKqP6aE1U=
+0.8.1 activerecord-jdbc-adapter:>= 0.8.1,jdbc-postgres:>= 8.2|checksum:4bGA5QEeLvwmdS48sbTeo2juBaP65UALgvenVrjPMVI=
+0.8.2 activerecord-jdbc-adapter:>= 0.8.2,jdbc-postgres:>= 8.2|checksum:dBjd7V6eiXMbNpSpFRQ3uNhUgsS2f1hy6SKSlKdriiw=
+0.9 activerecord-jdbc-adapter:= 0.9,jdbc-postgres:>= 8.2|checksum:cBXKx3YN/qrjk0s4CVrIQO4SvkmZEz1U2yimGDdDTcg=
+0.9.1 activerecord-jdbc-adapter:= 0.9.1,jdbc-postgres:>= 8.2|checksum:Jqhxr+kceps32eNSATw8Et/YQoc0TKrx3VR1J+Xmeuc=
+0.9.2 activerecord-jdbc-adapter:= 0.9.2,jdbc-postgres:>= 8.3.604|checksum:u0Co6Pc6GLFXPTRdufg36WLOdFfjszP/weNcPlE3jd8=
+0.9.0.1 activerecord-jdbc-adapter:= 0.9.0.1,jdbc-postgres:>= 8.2|checksum:UvL7WUYjdRRz+Iw36kBhEQfuP1MdSf2xOUIV5BlotdM=
+0.9.3-java activerecord-jdbc-adapter:= 0.9.3,jdbc-postgres:>= 8.3.604|checksum:MdjqtS+vquE5al7dl9oTrz3AnuRfDUdJeP2yVLcD/+A=
+0.9.4-java activerecord-jdbc-adapter:= 0.9.4,jdbc-postgres:>= 8.3.604|checksum:6NDkF8MBbTDGDHH3hPiKC9z4HKv10m9H1y9yI0N1qj8=
+0.9.5-java activerecord-jdbc-adapter:= 0.9.5,jdbc-postgres:>= 8.4.701|checksum:gerMNvZH7VovRQbMYBL9+QTdhnZQqv9Ak71cn1+CKuM=
+0.9.6-java activerecord-jdbc-adapter:= 0.9.6,jdbc-postgres:>= 8.4.701|checksum:3IIAEw0zlTthCNXk9qNUnRYvoXOf2GY7wqDjxvtEO6Y=
+0.9.7-java activerecord-jdbc-adapter:= 0.9.7,jdbc-postgres:>= 8.4.701|checksum:L9LIIVgyMWAgNGcpu2mUa6VCQdAdI0rJWdGIAOytG5w=
+1.0.0.beta1-java activerecord-jdbc-adapter:= 1.0.0.beta1,jdbc-postgres:>= 8.4.701|checksum:51UeRi4CWT22jVUaLuyzIdlwIfxxNj4wuXyf1ygauqs=
+1.0.0.beta2-java activerecord-jdbc-adapter:= 1.0.0.beta2,jdbc-postgres:>= 8.4.702|checksum:uqjUgXbFAxQgqbk7wnY49wbEny/edUJ6reOrsAfJBeQ=
+1.0.0-java activerecord-jdbc-adapter:= 1.0.0,jdbc-postgres:>= 8.4.702|checksum:sF5tkdQJEvwYc114mYDNR0vt0zSU7S/X5rVsqYGwZtM=
+1.0.1-java activerecord-jdbc-adapter:= 1.0.1,jdbc-postgres:>= 8.4.702|checksum:ZMflZ21t3e9tFQHSdZA03gZ5WIx1LHazyKiZWGV6HQ0=
+1.0.2-java activerecord-jdbc-adapter:= 1.0.2,jdbc-postgres:~> 8.4.0|checksum:Bd3CLkeVAJ3SFiyZ/yDZidh/fPpEsDEdoK9stzbJXko=
+1.0.3-java activerecord-jdbc-adapter:= 1.0.3,jdbc-postgres:~> 8.4.0|checksum:QWFjQ+drAcfYfTv3LdhS7Nu/QHcvuumzoHQttkW4W1o=
+1.1.0 activerecord-jdbc-adapter:= 1.1.0,jdbc-postgres:~> 8.4.0|checksum:S2dZkqZJVF2CMKUIP5ikzfISCvk4kkBNhJ+BkBamaVY=
+1.1.1 activerecord-jdbc-adapter:= 1.1.1,jdbc-postgres:~> 9.0.0|checksum:t4YMGBsjh8qOl822FrlAgiY+5XVoNhFRquFBn4GRbsw=
+1.1.2 activerecord-jdbc-adapter:= 1.1.2,jdbc-postgres:~> 9.0.0|checksum:1fjF+BSzqmdynafrvkL6ZnO1wozqnT2hAVCgefxHR6I=
+1.1.3 activerecord-jdbc-adapter:= 1.1.3,jdbc-postgres:~> 9.0.0|checksum:g9F6mwKBbo7RNztzDqMXldNiDmjro7C+M1EsYv/dROk=
+1.2.0 activerecord-jdbc-adapter:~> 1.2.0,jdbc-postgres:~> 9.0.0|checksum:X4MNkbi8wSfneNNuxLke30bfLocBZbJt1ULFkurRieM=
+1.2.1 activerecord-jdbc-adapter:~> 1.2.1,jdbc-postgres:~> 9.0.0|checksum:PW7QyWK+pWv64oyVXoJnWh3Rz4yI33Q05wyC7IKHoL0=
+1.2.2 activerecord-jdbc-adapter:~> 1.2.2,jdbc-postgres:< 9.2&>= 9.0|checksum:lOc8OjVGEFgZITvKmMzKWvekQqRR4hhIWpT3Rse+3S0=
+1.2.2.1 activerecord-jdbc-adapter:~> 1.2.2.1,jdbc-postgres:< 9.2&>= 9.0|checksum:0GhY4aZoXPomoqF5hzyg67bMj5Cguv8PLu9BjyxnkdE=
+1.2.5 activerecord-jdbc-adapter:~> 1.2.5,jdbc-postgres:< 9.3&>= 9.1|checksum:2cSychJxQyvmzc6Lf7lo7rZmiPeevle2GpxnKxnd+m8=
+1.2.6 activerecord-jdbc-adapter:~> 1.2.6,jdbc-postgres:< 9.3&>= 9.1|checksum:icN9niZ8joR/mPOc6LJ0baG+BLZpi6rxVN5s8QkEkoc=
+1.2.7 activerecord-jdbc-adapter:~> 1.2.7,jdbc-postgres:< 9.3&>= 9.1|checksum:G0srpJz3f9VUmIvQMnZ8NZz+l1O4b5ssTUI0l9/oR5I=
+1.2.9 activerecord-jdbc-adapter:~> 1.2.9,jdbc-postgres:< 9.3&>= 9.1|checksum:wcLPY1px8Rie5YFXdgwJ3E7G5nBpfYb/gnyyCnzZiSk=
+1.3.0.beta1 activerecord-jdbc-adapter:~> 1.3.0.beta1,jdbc-postgres:< 9.3&>= 9.1|checksum:tkPgtuT7rsCOjQ3j6LYS8L2cpu3WiBO6sYos/hFsS18=,rubygems:> 1.3.1
+1.3.0.beta2 activerecord-jdbc-adapter:~> 1.3.0.beta2,jdbc-postgres:< 9.3&>= 9.1|checksum:klZ1EOg4BGlRdtnjC4WJDaP+dPoiJDzP7DNCwN+9ksE=,rubygems:> 1.3.1
+1.3.0.rc1 activerecord-jdbc-adapter:~> 1.3.0.rc1,jdbc-postgres:< 9.3&>= 9.1|checksum:AN3Eat+3NVdRPpFYtaaCpxH857YEzHpqmNzq9AHwtUw=,rubygems:> 1.3.1
+1.3.0 activerecord-jdbc-adapter:~> 1.3.0,jdbc-postgres:< 9.3&>= 9.1|checksum:fbLwMIgA9Uo8W0VdYWkykEabB4M6koMhJlN09kWDqXg=
+1.3.1 activerecord-jdbc-adapter:~> 1.3.1,jdbc-postgres:>= 9.1|checksum:z28P84h/29VhIwOEAXe86GFeka0MCICtiftFNa5Wfx4=
+1.3.2 activerecord-jdbc-adapter:~> 1.3.2,jdbc-postgres:>= 9.1|checksum:8zeHa1F+r+StOcwDjsnecztjo1KlapoksMusExSlRts=
+1.3.3 activerecord-jdbc-adapter:~> 1.3.3,jdbc-postgres:>= 9.1|checksum:+inb/VS6LcjulIFhGKKNHgjPomb691HVFHuYfHjDIqg=
+1.3.4 activerecord-jdbc-adapter:~> 1.3.4,jdbc-postgres:>= 9.1|checksum:9OTugC3XzxZQdoCqqkICDPd6j8RnW4LwcDzdDRyx07I=
+1.3.5 activerecord-jdbc-adapter:~> 1.3.5,jdbc-postgres:>= 9.1|checksum:8Zdnypc+thROxvhrYgIwcrSSl3kXa4OJbfLLx57pR/g=
+1.3.6 activerecord-jdbc-adapter:~> 1.3.6,jdbc-postgres:>= 9.1|checksum:xkZq3ioZHcu/Ie3g1KI41DWVxBRA+IFYp2bF/SuYeds=
+1.3.7 activerecord-jdbc-adapter:~> 1.3.7,jdbc-postgres:>= 9.1|checksum:DoTJdSOQrzo/G1ExTLAzgRbmITkyF6yPIJRfGD7aDaU=,ruby:>= 0
+1.3.8 activerecord-jdbc-adapter:~> 1.3.8,jdbc-postgres:>= 9.1|checksum:msU/wZ84Lni6mnZz+mzAPaqpDN8Bvz8KpP/Axy633jg=,ruby:>= 0
+1.3.9 activerecord-jdbc-adapter:~> 1.3.9,jdbc-postgres:>= 9.1|checksum:D4UXfmiPRqleebYKrCJFaZGYhafZTDzGnxFZb6El8+I=,ruby:>= 0
+1.3.10 activerecord-jdbc-adapter:~> 1.3.10,jdbc-postgres:>= 9.1|checksum:sr3kfX3iy0v3nJr/YqduXZ69CJyOHRAn8tsj/i2SNVk=,ruby:>= 0
+1.3.11 activerecord-jdbc-adapter:~> 1.3.11,jdbc-postgres:>= 9.1|checksum:dxbEMfIdFpN3h1xpGgIz3Um4iOaF5xZWOBsN+MYDqfw=,ruby:>= 0
+1.3.12 activerecord-jdbc-adapter:~> 1.3.12,jdbc-postgres:>= 9.1|checksum:Dph96bKDz/cl+zJOOOh9qA2smF2O6cTVwdR8IoJZ/qQ=,ruby:>= 0
+1.3.13 activerecord-jdbc-adapter:~> 1.3.13,jdbc-postgres:>= 9.1|checksum:3raLQ0f7t9oJqt716b10d160wJjQ9KX2pqO6qCliU4M=,ruby:>= 0
+1.3.14 activerecord-jdbc-adapter:~> 1.3.14,jdbc-postgres:>= 9.1|checksum:zqfw6U5XyypH956KjnYkfYtHx3I0KV57eVgcmhf3/wg=,ruby:>= 0
+1.3.15 activerecord-jdbc-adapter:~> 1.3.15,jdbc-postgres:>= 9.1|checksum:XRVS2ORW/zRRqgEeyVO6FZBH3xYsIsydaACSfLeSCb0=,ruby:>= 0
+1.3.16 activerecord-jdbc-adapter:~> 1.3.16,jdbc-postgres:>= 9.1|checksum:3QlV1ZJU122xZylwfZF2M/jYkb+aOmBguTAYxFzYVoA=,ruby:>= 0
+1.3.17 activerecord-jdbc-adapter:~> 1.3.17,jdbc-postgres:>= 9.1|checksum:AE5jj5vYOGQOjTUDL9nD2KTc7Vf0eQKgutEdaOASH/E=,ruby:>= 0
+1.3.18 activerecord-jdbc-adapter:~> 1.3.18,jdbc-postgres:>= 9.1|checksum:
+1.3.19 activerecord-jdbc-adapter:~> 1.3.19,jdbc-postgres:>= 9.1|checksum:
+1.3.20 activerecord-jdbc-adapter:~> 1.3.20,jdbc-postgres:>= 9.1|checksum:7db7aa744c00b6e4cd70f582e6271af925c6fa8f45b0809feccabbc5c0993b1d,ruby:>= 0,rubygems:>= 0

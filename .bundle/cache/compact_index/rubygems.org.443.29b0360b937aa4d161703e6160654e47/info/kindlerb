@@ -1,0 +1,13 @@
+---
+0.0.1 mustache:>= 0,nokogiri:>= 0|checksum:9rVwKKSo5ce+aqaGeNlNbSwcsi7zI5l611iSJ9ZSI1c=
+0.0.2 mustache:>= 0,nokogiri:>= 0|checksum:1F7jQ4n1DjNgLQqXxd6jG4IrGHfhn3Li4V84Vov5zgE=
+0.0.3 mustache:>= 0,nokogiri:>= 0|checksum:lLa+BDYrmz+P5YaQMPwmpIvlPM0RUFMeF/yVHlFvMGw=
+0.0.4 mustache:>= 0,nokogiri:>= 0|checksum:vip2wdR59x9LdMza+f7hOI3cbavPV06IPTxEyR+i4ak=
+0.0.5 mustache:>= 0,nokogiri:>= 0|checksum:mj63WQq2Q0MXwDiarl/uGfMZlkCKzqPU/0yBAJyW2rM=
+0.0.6 mustache:>= 0,nokogiri:>= 0|checksum:QvCwIjRfqjhAGsYMqSqS6O6SpAOqZlHsEIKHqkFRmfY=
+0.0.7 mustache:>= 0,nokogiri:>= 0|checksum:3+RblUaMHeivI+c0yeGD1XRPsw6wodV8i215PRZMEn8=
+0.0.8 mustache:>= 0,nokogiri:>= 0|checksum:kt1mtpdMT916Au31gH51W88DuP0gA8CC4HgExoCyfLE=
+0.0.9 mustache:>= 0,nokogiri:>= 0|checksum:cm2eicREIg9jg84P3HZ8yCNphjyJWGz+aG9JyyxYG60=
+0.1.0 mustache:>= 0,nokogiri:>= 0|checksum:yluZnAz+t2Marzu8mN8HSaZRTINA40Zbb7l91vLCXec=
+0.1.1 mustache:>= 0,nokogiri:>= 0|checksum:dTAO2dQnPVv+Dx0zVQInhKRZQyhhKoTfLCd6WDTCyss=
+1.0.1 mustache:>= 0,nokogiri:>= 0|checksum:tsSbnAjPY8ql/UAL4EGWkefeMUQRrloTXoX573cI+Jc=,ruby:>= 2.0.0

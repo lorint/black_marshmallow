@@ -1,0 +1,9 @@
+---
+0.2.0 blade:>= 0,childprocess:>= 0,faraday:>= 0|checksum:
+0.3.0 blade:>= 0,childprocess:>= 0,faraday:>= 0|checksum:
+0.3.1 blade:>= 0,faraday:>= 0|checksum:
+0.4.0 blade:>= 0,faraday:>= 0|checksum:
+0.4.1 blade:>= 0,childprocess:>= 0,faraday:>= 0|checksum:
+0.5.0 childprocess:>= 0,faraday:>= 0,selenium-webdriver:>= 0|checksum:df3dea1974b1282cfeb2d46ab592a097e8afc1e0dbbe4ff4da84a2ee7c34753b,ruby:>= 0,rubygems:>= 0
+0.5.1 childprocess:>= 0,faraday:>= 0,selenium-webdriver:>= 0|checksum:3b561a84f6aab3238daf611fca2c0030dec8e68b4d8f3385bb128af37437e185,ruby:>= 0,rubygems:>= 0
+0.5.2 childprocess:>= 0,faraday:>= 0,selenium-webdriver:>= 0|checksum:9e57f98b29443630b20ab29b69e48395c686376e96367d87c20ca8780672793f,ruby:>= 0,rubygems:>= 0

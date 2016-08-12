@@ -1,0 +1,8 @@
+[2016-07-23 14:41:56] ./configure
+current path: /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+PATH=/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets:/data/data/com.termux/files/home/.rvm/bin
+command(4): ./configure --prefix=/data/data/com.termux/files/home/.rvm/rubies/ruby-2.3.0 --disable-install-doc --enable-shared
+checking for ruby... /data/data/com.termux/files/usr/bin/ruby
+config.guess already exists
+config.sub already exists
+configure: error: cannot run /bin/sh tool/config.sub

@@ -1,0 +1,20 @@
+[2016-07-23 15:22:13] __rvm_rm_rf
+__rvm_rm_rf () 
+{ 
+    __rvm_rm_rf_verbose "$@"
+}
+current path: /data/data/com.termux/files/home/.rvm/scripts/functions/manage
+PATH=/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets:/data/data/com.termux/files/home/.rvm/bin
+command(2): __rvm_rm_rf /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+++ 1469283733.N /scripts/functions/cleanup : __rvm_rm_rf()  6 > __rvm_rm_rf_verbose /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+++ 1469283733.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  13 > typeset target
+++ 1469283733.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  14 > target=/data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  6 > [[ -n '' ]]
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  10 > [[ -n 4.3.46(1)-release ]]
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  24 > builtin shopt -s extglob
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  28 > case "${target}" in
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  23 > [[ -z /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0 ]]
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  28 > [[ -d /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0 ]]
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  42 > command rm -rf /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  42 > rm -rf /data/data/com.termux/files/home/.rvm/src/ruby-2.3.0
+++ 1469283734.N /scripts/functions/cleanup : __rvm_rm_rf_verbose()  62 > true

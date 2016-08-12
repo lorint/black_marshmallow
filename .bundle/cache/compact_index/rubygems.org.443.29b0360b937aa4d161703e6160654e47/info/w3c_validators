@@ -1,0 +1,9 @@
+---
+0.9.0 |checksum:XoQZC2ZB1+aXK+AlhQnzuhQaekEmlwD8DRT8v31tzPk=,rubygems:
+0.9.1 |checksum:InjapjiR2J3Bi22IbNCrwacXgvAbhXLWCro9OnHnAQQ=,rubygems:
+0.9.2 |checksum:2XoRSGijNHFYyJME91hsRZQO6yls7Q/ePDidhDtqIg0=,rubygems:
+0.9.3 |checksum:w1FLoAyiT2Kl4c20g7GBNUlDkueLh7Bd4Sw7adNT4Uk=,rubygems:
+1.0.2 |checksum:OqiP9O7G78Y5lNFhGnAPda3K87SLqizXAoaTpesSUzM=,rubygems:
+1.1 nokogiri:>= 0|checksum:5vppTAaGoF+5sgf4aohRiwYFhX2rHmlcVU4XnDCaDpk=
+1.1.1 nokogiri:>= 0|checksum:h3g8FMHz/gffvddc9usmmtN3vA1g+IiWfd3PByYLKls=
+1.2 json:>= 0,nokogiri:>= 0|checksum:a93CKX6EvBYQeedD7uaer17R0a1KhQk7vR1gEafx4E8=
